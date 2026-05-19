@@ -11,5 +11,16 @@
     CmdletsToExport   = @()
     VariablesToExport = @()
     AliasesToExport   = @()
+
+    PrivateData = @{
+        PSData = @{
+            Tags        = @('EntraID', 'TokenLifetime', 'MicrosoftGraph', 'IdentityGovernance')
+            LicenseUri  = 'https://opensource.org/licenses/MIT'
+            ProjectUri  = 'https://github.com/topyo/Entra--Token-Lifetimes'
+            IconUri     = 'https://learn.microsoft.com/favicon.ico'
+            ReleaseNotes = 'Initial release of EntraTokenLifetimes module.'
+        }
+    }
 }
+
 
