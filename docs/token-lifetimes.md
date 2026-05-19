@@ -31,7 +31,9 @@ Use **Conditional Access** for:
 - Sign‑in frequency  
 - Session persistence  
 - Browser session control  
-- Risk‑based reauthentication  
+- Risk‑based reauthentication
+  ![Token Lifetimes Diagram](images/token-lifetimes-diagram.png)
+
 
 ## Reference
 [Microsoft Learn — Configurable Token Lifetimes](https://learn.microsoft.com/en-us/entra/identity-platform/configurable-token-lifetimes)
