@@ -90,7 +90,7 @@ Set-EntraTokenLifetimePolicy `
 
 # Token Lifetimes in Microsoft Entra ID (2026 Update)
 
-Token lifetime policies in Microsoft Entra ID have not disappeared — they have become more specialized.
+Token lifetime policies in Microsoft Entra ID have not disappeared they have become more specialized.
 
 While Microsoft Entra Conditional Access now governs most session behavior, token lifetimes still play an important role in specific identity and security scenarios.
 
