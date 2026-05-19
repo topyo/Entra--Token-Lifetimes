@@ -1,0 +1,1 @@
+@{ RootModule = 'EntraTokenLifetimes.psm1' }
