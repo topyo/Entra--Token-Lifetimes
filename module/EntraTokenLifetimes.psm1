@@ -1,3 +1,5 @@
+Complete the implementation for Set‑EntraTokenLifetimePolicy.
+You can use this template:
 function Set-EntraTokenLifetimePolicy {
     param(
         [string]$AppId,
@@ -24,5 +26,9 @@ function Set-EntraTokenLifetimePolicy {
 
     Write-Host "Token lifetime policy applied successfully to AppId: $AppId"
 }
+2. Test your module locally:
 
+powershell
+Import-Module ./module/EntraTokenLifetimes.psd1
+Get-EntraTokenLifetimePolicy
 
