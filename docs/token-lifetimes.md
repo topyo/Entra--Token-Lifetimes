@@ -1,4 +1,6 @@
 # Token Lifetimes Deep Dive
+![Token Lifetimes Diagram](images/token-lifetimes-diagram.png)
+
 Token lifetime policies in Microsoft Entra ID remain a precision tool for fine‑tuning authentication flow.
 ##  What You Can Still Configure
 - Access tokens  
@@ -32,7 +34,7 @@ Use **Conditional Access** for:
 - Session persistence  
 - Browser session control  
 - Risk‑based reauthentication
-  ![Token Lifetimes Diagram](images/token-lifetimes-diagram.png)
+
 
 
 ## Reference
