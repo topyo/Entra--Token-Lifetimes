@@ -22,7 +22,8 @@ This repository provides:
 
 # Live Documentation Site
 
-[Entra Token Lifetimes Documentation](https://topyo.github.io/Entra--Token-Lifetimes/?utm_source=chatgpt.com)
+[Entra Token Lifetimes Documentation](https://topyo.github.io/Entra-ID-Token-Lifetimes/)
+
 
 ---
 
